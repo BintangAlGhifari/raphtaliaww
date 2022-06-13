@@ -23,7 +23,7 @@ html{
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: steelblue;
+    background: crimson;
 }
 
 /* all similar content styling codes */
@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: steelblue;
+    color: crimson;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: steelblue;
+    background: crimson;
 }
 .navbar .max-width{
     display: flex;
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: steelblue;
+    color: crimson;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: steelblue;
+    color: crimson;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: steelblue;
+    background: crimson;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -189,23 +189,23 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: steelblue;
+    color: crimson;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: steelblue;
+    background: crimson;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid steelblue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: steelblue;
+    color: crimson;
     background: none;
 }
 
@@ -231,25 +231,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: steelblue;
+    color: crimson;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: steelblue;
+    background: crimson;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid steelblue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: steelblue;
+    color: crimson;
     background: none;
 }
 
@@ -278,7 +278,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: steelblue;
+    background: crimson;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -288,7 +288,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: steelblue;
+    color: crimson;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
@@ -318,18 +318,18 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: steelblue;
+    background: crimson;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid steelblue;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: steelblue;
+    color: crimson;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -543,7 +543,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: steelblue;
+    color: crimson;
     text-decoration: none;
 }
 footer span a:hover{
